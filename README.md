@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/22imrftoq4mmnv4m?svg=true)](https://ci.appveyor.com/project/Zicio/store-func-2)
 
-[Ссылка на GP](https://zicio.github.io/Store-func/)
+[Ссылка на GP](https://zicio.github.io/store-func-2/)
 
 [Ссылка на задание](https://github.com/netology-code/ra16-homeworks/tree/master/components/store-func)
 
