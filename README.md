@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/qa9gm0d85s8f6fx4?svg=true)](https://ci.appveyor.com/project/Zicio/store-func-2)
+[![Build status](https://ci.appveyor.com/api/projects/status/22imrftoq4mmnv4m?svg=true)](https://ci.appveyor.com/project/Zicio/store-func-2)
 
 [Ссылка на GP](https://zicio.github.io/Store-func/)
 
