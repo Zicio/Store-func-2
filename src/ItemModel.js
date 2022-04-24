@@ -6,5 +6,5 @@ export default class ItemModel {
     this.descriptionFull = item.descriptionFull;
     this.price = item.price;
     this.currency = item.currency;
-  }
+  },
 }
